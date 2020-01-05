@@ -1,0 +1,13 @@
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\bin\Debug\VivaVstoreTask.exe.config
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\bin\Debug\VivaVstoreTask.exe
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\bin\Debug\VivaVstoreTask.pdb
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\bin\Debug\Newtonsoft.Json.dll
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\bin\Debug\RestSharp.dll
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\bin\Debug\Newtonsoft.Json.xml
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\bin\Debug\RestSharp.xml
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\obj\Debug\VivaVstoreTask.csprojResolveAssemblyReference.cache
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\obj\Debug\VivaVstoreTask.Form1.resources
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\obj\Debug\VivaVstoreTask.Properties.Resources.resources
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\obj\Debug\VivaVstoreTask.csproj.GenerateResource.Cache
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\obj\Debug\VivaVstoreTask.exe
+c:\users\ayman\documents\visual studio 2015\Projects\VivaVstoreTask\VivaVstoreTask\obj\Debug\VivaVstoreTask.pdb
